@@ -1,0 +1,10 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-10-17 17:52 IST
+Nmap scan report for 54.239.25.200
+Host is up (0.51s latency).
+Not shown: 98 closed ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.47 seconds

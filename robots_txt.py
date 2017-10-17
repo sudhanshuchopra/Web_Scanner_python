@@ -12,4 +12,3 @@ def get_robot_txt(url):
 	data=io.TextIOWrapper(req,encoding="utf-8")
 	return data.read()
 
-print(get_robot_txt("http://www.sudhanshuchopra.com"))
